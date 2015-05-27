@@ -1,0 +1,39 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/etc/" . "ssh/")
+ ("/" . "etc/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/ssbunny/Documents/my-notes/lang/"
+ "/home/ssbunny/Documents/my-notes/fedora/"
+ "/home/ssbunny/Documents/my-notes/"
+ "/etc/ssh/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "rust.md"
+ "admin_guide.md"
+ "README.md"
+ "sshd_config"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/ssbunny/Documents/my-notes/lang/" (21858 29403 519870 505000) "./" "../" "rust.md")
+
+ ("/home/ssbunny/Documents/my-notes/" (21858 28139 60759 832000) "fedora/" "README.md" ".gitignore" "lang/" "LICENSE" "./" ".git/" "web/" "../")
+
+ ("/home/ssbunny/Documents/my-notes/fedora/" (21844 24523 598282 807000) "disk_partitions.md" "./" "../" "img/" "admin_guide.md")
+
+ ("/etc/ssh/" (21814 3783 644753 838000) "./" "../" "sshd_config" "moduli" "ssh_config")
+
+ ("/etc/" (21841 18274 916163 488000) "logrotate.d/" "binfmt.d/" "bashrc" "redhat-release" "openal/" "cifs-utils/" "purple/" "terminfo/" "request-key.conf" "fstab" "rsyncd.conf" "modprobe.d/" "os-release" "rsyslog.d/" "wpa_supplicant/" "xml/" "anacrontab" "crypto-policies/" "ld.so.conf" "pam.d/" "opt/" "csh.login" "fprintd.conf" "prelink.conf.d/" "vpnc/" "virc" "rygel.conf" "cron.daily/" "rc6.d/" "capi20.conf" "shadow" "sudoers.d/" "csh.cshrc" "fonts/" ".updated" "wvdial.conf" "gdbinit" "cron.deny" "iproute2/" "gcrypt/" "motd" "usb_modeswitch.d/" "jwhois.conf" "cron.weekly/" "dconf/" "libaudit.conf" "vdpau_wrapper.cfg" "audisp/" "request-key.d/" "login.defs" "gshadow" "cupshelpers/" "host.conf" "sasl2/" "extlinux.conf" "speech-dispatcher/" "dnsmasq.conf" "ghostscript/" "statetab" "shadow-" "at.deny" "aliases" "DIR_COLORS.lightbgcolor" "hostname" "foomatic/" "openldap/" "dpkg/" "mailcap" "passwd" "UPower/" "radvd.conf" "dhcp/" "fuse.conf" "java/" "pam_pkcs11/" "tcsd.conf" "system-release-cpe" "asound.conf" "libreport/" "security/" "rc2.d/" "rc3.d/" "docker/" "firewalld/" "wgetrc" "DIR_COLORS" "ld.so.conf.d/" "machine-info" "bash_completion.d/" "krb5.conf" "nsswitch.conf" "tmpfiles.d/" "highlight/" "depmod.d/" "favicon.png" "sudoers" "logrotate.conf" "cups/" "locale.conf~" "inputrc" "openvpn/" "dleyna-server-service.conf" "idmapd.conf" "sysconfig/" "mtools.conf" "mtab" "issue" "machine-id" "ImageMagick-6/" "gss/" "passwdqc.conf" "cron.d/" "gdbinit.d/" "ssh/" "brlapi.key" "profile.d/" "nsswitch.conf.bak" "issue.net" "fedora-release" "libibverbs.d/" "mail.rc" "httpd/" ".pwd.lock" "unbound/" "default/" "statetab.d/" "vmware-tools/" "pm/" "group" "services" "NetworkManager/" "trusted-key.key" "yum/" "sysctl.d/" "mcelog/" "rwtab" "samba/" "libuser.conf" "protocols" "ssmtp/" "redhat-lsb/" "libvirt/" "kde/" "selinux/" "crypttab" "man_db.conf" "xattr.conf" "DIR_COLORS.256color" "brltty/" "abrt/" "sysctl.conf" "modules-load.d/" "exports" "dracut.conf" "makedumpfile.conf.sample" "shells" "profile" "hosts.deny" "capi.conf" "printcap" "gdm/" "exports.d/" "sgml/" "plymouth/" "geoclue/" "rc0.d/" "rpc" "rc4.d/" "cron.monthly/" "pulse/" "hp/" "grub.d/" "vbox/" "gconf/" "yum.conf" "mke2fs.conf" "isdn/" "stunnel/" "inittab" "sensors3.conf" "filesystems" "xinetd.d/" "rpm/" "ppp/" "audit/" "iscsi/" "vconsole.conf" "usb_modeswitch.conf" "avahi/" "ld.so.cache" "odbcinst.ini" "netconfig" "magic" "yum.repos.d/" "grub2.cfg" "dnsmasq.d/" "localtime" "sane.d/" "mime.types" "gshadow-" "lsb-release.d/" "skel/" "X11/" "rc5.d/" "setroubleshoot/" "jvm/" "crontab" "grub2-efi.cfg" "rc1.d/" "scl/" "udisks2/" "kdump.conf" "screenrc" "rwtab.d/" "gnupg/" "corosync/" "dracut.conf.d/" "sestatus.conf" "alternatives/" "hba.conf" "GREP_COLORS" "libnl/" "e2fsck.conf" "PackageKit/" "at-spi2/" "alsa/" "qemu/" "dnf/" "kernel/" "ssl/" "festival/" "fcoe/" "dbus-1/" "networks" "gssproxy/" "group-" "modulefiles/" "liboath/" "hosts.allow" "groff/" "pkcs11/" "pki/" "adjtime" "multipath/" "lvm/" "sssd/" "brltty.conf" "drirc" "Trolltech.conf" "updatedb.conf" "udev/" "environment" "systemd/" "nfsmount.conf" "pcmcia/" "system-release" "rc.d/" "maven/" "hosts" "chkconfig.d/" "chrony.conf" "polkit-1/" "xdg/" "cron.hourly/" "sos.conf" "locale.conf" "ethertypes" "init.d/" "jvm-commmon/" "popt.d/" "passwd-" "setuptool.d/" "pinforc" "chrony.keys" "resolv.conf" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

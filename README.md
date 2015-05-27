@@ -1,4 +1,8 @@
-[![Build Status](https://travis-ci.org/purcell/emacs.d.png?branch=master)](https://travis-ci.org/purcell/emacs.d)
+# Emacs 配置文件
+
+*forked from purcell/emacs.d on Fri 8 May 2015*
+
+
 
 # A reasonable Emacs config
 
